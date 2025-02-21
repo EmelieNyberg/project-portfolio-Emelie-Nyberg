@@ -15,7 +15,7 @@ export const App = () => {
       <Skills />
       <FeaturedProjects />
       <Tech />
-      <Articles />
+      {/* <Articles /> */}
       <Contact />
     </body>
   );

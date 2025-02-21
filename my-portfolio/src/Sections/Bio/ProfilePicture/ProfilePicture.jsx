@@ -1,6 +1,6 @@
 // ProfilePicture.jsx
 
-import profilePicture from "../../../assets/examplepic2.png";
+import profilePicture from "../../../assets/emelie2.png";
 import "./ProfilePicture.css"
 
 export const ProfilePicture = () => {

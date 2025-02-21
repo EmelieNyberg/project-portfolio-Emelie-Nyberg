@@ -28,3 +28,10 @@
   background-color: rgb(32, 32, 32, 0.3);
   border-radius: 2px;
 }
+
+/* For mobile phones */
+@media (max-width: 667px) {
+  .project-container {
+    gap: 2rem;
+  }
+}

@@ -1,42 +1,53 @@
 {
   "skills": [
     {
-      "type": "Code",
+      "type": "Frontend",
       "list": [
         "HTML5",
         "CSS3",
-        "JavaScript ES6",
+        "JavaScript (ES6+)",
         "React",
+        "React Router",
+        "TypeScript",
+        "Zustand",
         "Styled Components",
-        "Github"
+        "Accessibility",
+        "Responsive Design"
+      ]
+    },
+    {
+      "type": "Backend",
+      "list": [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Mongoose",
+        "RESTful APIs",
+        "Bcrypt"
       ]
     },
     {
       "type": "Toolbox",
       "list": [
-        "Atom",
+        "Git & GitHub",
+        "VS Code",
         "Postman",
-        "Adobe Photoshop",
         "Figma",
-        "Keynote",
-        "Slack"
-      ]
-    },
-    {
-      "type": "Upcoming",
-      "list": [
-        "Node.js"
+        "Miro",
+        "Slack",
+        "Jira"
       ]
     },
     {
       "type": "More",
       "list": [
-        "Branding",
-        "Strategy",
-        "Process Design",
-        "Concept",
-        "Development",
-        "Agile methodology"
+        "API Integration",
+        "Full-stack development",
+        "Agile methodology",
+        "Digital transformation",
+        "System implementation",
+        "UX/UI considerations",
+        "Zendesk"
       ]
     }
   ]

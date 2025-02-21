@@ -1,32 +1,60 @@
 {
   "projects": [
     {
+      "name": "JollyKid",
+      "image": "./src/assets/jollykid.png",
+      "description": "A full-stack e-commerce platform for children's clothing, built with React, Node.js, and MongoDB. It features secure authentication, Stripe payments, and responsive design — offering a smooth shopping experience with intuitive filtering, cart management, and a clean, modern UI.",
+      "netlify": "https://jollykid.netlify.app/",
+      "github": "https://github.com/EmelieNyberg/project-final-e-commerce"
+    },
+    {
       "name": "Happy thoughts",
       "image": "./src/assets/happy-thoughts.png",
-      "description": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
+      "description": "A joyful, interactive social feed built with React and a custom-built API, allowing users to share positivity through happy thoughts. With real-time posting, instant likes, and an intuitive UI, it delivers a seamless, uplifting experience with smooth, responsive interactions.",
       "netlify": "https://cookiebot-lifeisbetterwithcookies.netlify.app/",
       "github": "https://github.com/EmelieNyberg/project-chatbot-ek"
     },
     {
+      "name": "Happy thoughts API",
+      "image": "./src/assets/happy-thoughts-api.png",
+      "description": "A fully functional RESTful API built with Node.js, Express, and MongoDB, enabling seamless interaction with a positivity-focused social feed. It supports real-time thought posting, likes management, and efficient data handling — all optimized for smooth integration with the React frontend.",
+      "netlify": "https://project-happy-thoughts-api-ek.onrender.com",
+      "github": "https://github.com/EmelieNyberg/project-happy-thoughts-api-ek"
+    },
+    {
+      "name": "Movies site",
+      "image": "./src/assets/movies.png",
+      "description": "A dynamic film explorer built with React, React Router, and TheMovieDB API, allowing users to browse popular movies and view detailed pages with smooth, dynamic routing.",
+      "netlify": "https://project-movies-emelienyberg.netlify.app/",
+      "github": "https://github.com/EmelieNyberg/project-movies-vite-ek"
+    },
+    {
       "name": "Weather app",
-      "image": "https://images.unsplash.com/photo-1520792532857-293bd046307a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2370&q=80",
-      "description": "A simple React app utilising the useEffect hook to fetch and display Dog Facts from an external API",
+      "image": "./src/assets/weather-app.png",
+      "description": "A dynamic and responsive weather experience built with vanilla JavaScript, featuring real-time data from the OpenWeatherMap API. It delivers current conditions, a four-day forecast, and sunrise/sunset times — all presented with a clean, intuitive design and seamless interaction.",
       "netlify": "https://weatherapp-ek.netlify.app/",
       "github": "https://github.com/EmelieNyberg/project-weather-app-ek"
     },
     {
       "name": "Chatbot",
-      "image": "https://images.unsplash.com/photo-1557008075-7f2c5efa4cfd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2497&q=80",
-      "description": "The chat bot app is a conversational AI-powered tool designed to enhance user experience by providing instant, personalized, and automated responses to user inquiries.",
+      "image": "./src/assets/chat-bot.png",
+      "description": "The chatbot is a sleek, interactive experience built with vanilla JavaScript, offering dynamic conversations, intuitive user input, and a touch of personality — all crafted from scratch with seamless flow control and engaging effects.",
       "netlify": "https://cookiebot-lifeisbetterwithcookies.netlify.app/",
       "github": "https://github.com/EmelieNyberg/project-chatbot-ek"
     },
     {
-      "name": "Weather app",
-      "image": "https://images.unsplash.com/photo-1520792532857-293bd046307a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2370&q=80",
-      "description": "A simple React app utilising the useEffect hook to fetch and display Dog Facts from an external API",
-      "netlify": "https://weatherapp-ek.netlify.app/",
-      "github": "https://github.com/EmelieNyberg/project-weather-app-ek"
+      "name": "To-do List",
+      "image": "./src/assets/to-do.png",
+      "description": "A task management application built with TypeScript, React, and Zustand for efficient global state management. It leverages Zustand's persist middleware to save tasks in local storage, ensuring data remains intact across sessions.",
+      "netlify": "https://typescript-todo-ek.netlify.app/",
+      "github": "https://github.com/EmelieNyberg/project-to-dos-zustand-vite-ek/tree/typescript"
+    },
+    {
+      "name": "Stellar Sound",
+      "image": "./src/assets/stellar.png",
+      "description": "A business site concept for a fictitious music streaming service, built with HTML and CSS, featuring a hero section and sign-up form. The site uses Grid, Flexbox, and Media Queries for a mobile-first, responsive design.",
+      "netlify": "https://stellarsound.netlify.app/",
+      "github": "https://github.com/EmelieNyberg/project-business-site-ek"
     }
   ]
 }
