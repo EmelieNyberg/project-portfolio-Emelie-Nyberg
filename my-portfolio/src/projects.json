@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "JollyKid",
-      "image": "./public/jollykid.png",
+      "image": "/jollykid.png",
       "description": "A full-stack e-commerce platform for children's clothing, built with React, Node.js, and MongoDB. It features secure authentication, Stripe payments, and responsive design — offering a smooth shopping experience with intuitive filtering, cart management, and a clean, modern UI.",
       "netlify": "https://jollykid.netlify.app/",
       "github": "https://github.com/EmelieNyberg/project-final-e-commerce"
@@ -11,7 +11,7 @@
       "name": "Happy thoughts",
       "image": "./src/assets/happy-thoughts.png",
       "description": "A joyful, interactive social feed built with React and a custom-built API, allowing users to share positivity through happy thoughts. With real-time posting, instant likes, and an intuitive UI, it delivers a seamless, uplifting experience with smooth, responsive interactions.",
-      "netlify": "https://cookiebot-lifeisbetterwithcookies.netlify.app/",
+      "netlify": "https://happy-thoughts-project-technigo.netlify.app/",
       "github": "https://github.com/EmelieNyberg/project-chatbot-ek"
     },
     {
