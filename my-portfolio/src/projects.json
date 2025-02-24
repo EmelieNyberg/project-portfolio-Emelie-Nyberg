@@ -2,7 +2,7 @@
   "projects": [
     {
       "name": "JollyKid",
-      "image": "./src/assets/jollykid.png",
+      "image": "./public/jollykid.png",
       "description": "A full-stack e-commerce platform for children's clothing, built with React, Node.js, and MongoDB. It features secure authentication, Stripe payments, and responsive design — offering a smooth shopping experience with intuitive filtering, cart management, and a clean, modern UI.",
       "netlify": "https://jollykid.netlify.app/",
       "github": "https://github.com/EmelieNyberg/project-final-e-commerce"
