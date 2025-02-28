@@ -1,7 +1,7 @@
 .card-picture-container {
   width: 25rem;
   height: 18.75rem;
-  background-color: rgba(253, 111, 0, 0.3);
+  background-color: rgb(188, 90, 82, 0.3);
 }
 
 .card-picture-container img {
