@@ -29,6 +29,13 @@
       "github": "https://github.com/EmelieNyberg/project-movies-vite-ek"
     },
     {
+      "name": "To-do List",
+      "image": "/to-do.png",
+      "description": "A task management application built with TypeScript, React, and Zustand for efficient global state management. It leverages Zustand's persist middleware to save tasks in local storage, ensuring data remains intact across sessions.",
+      "netlify": "https://typescript-todo-ek.netlify.app/",
+      "github": "https://github.com/EmelieNyberg/project-to-dos-zustand-vite-ek/tree/typescript"
+    },
+    {
       "name": "Weather app",
       "image": "/weather-app.png",
       "description": "A dynamic and responsive weather experience built with vanilla JavaScript, featuring real-time data from the OpenWeatherMap API. It delivers current conditions, a four-day forecast, and sunrise/sunset times — all presented with a clean, intuitive design and seamless interaction.",
@@ -43,18 +50,18 @@
       "github": "https://github.com/EmelieNyberg/project-chatbot-ek"
     },
     {
-      "name": "To-do List",
-      "image": "/to-do.png",
-      "description": "A task management application built with TypeScript, React, and Zustand for efficient global state management. It leverages Zustand's persist middleware to save tasks in local storage, ensuring data remains intact across sessions.",
-      "netlify": "https://typescript-todo-ek.netlify.app/",
-      "github": "https://github.com/EmelieNyberg/project-to-dos-zustand-vite-ek/tree/typescript"
-    },
-    {
       "name": "Daily Spells",
       "image": "/spell.png",
       "description": "A collaborative mob-programming project where we transformed a Figma design for iPhone XR into a fully functional React application. The goal was to precisely follow the UX designer’s vision, implementing styled components, reusable components, and responsiveness from 320px and up.",
       "netlify": "https://dailyspell.netlify.app/",
       "github": "https://github.com/EmelieNyberg/project-design-handoff-vite"
+    },
+    {
+      "name": "Read Cloud",
+      "image": "/library.png",
+      "description": "Read Cloud is a JavaScript-based interactive webpage that dynamically displays data from a provided array. The page includes filtering, sorting, and a random selection feature, allowing users to refine books based on properties like genre, rating, or most recent.",
+      "netlify": "https://readcloud.netlify.app/",
+      "github": "https://github.com/EmelieNyberg/project-library-EJJ"
     },
     {
       "name": "Stellar Sound",
