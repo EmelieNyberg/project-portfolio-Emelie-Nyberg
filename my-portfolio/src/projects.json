@@ -50,11 +50,25 @@
       "github": "https://github.com/EmelieNyberg/project-to-dos-zustand-vite-ek/tree/typescript"
     },
     {
+      "name": "Daily Spells",
+      "image": "/spell.png",
+      "description": "A collaborative mob-programming project where we transformed a Figma design for iPhone XR into a fully functional React application. The goal was to precisely follow the UX designer’s vision, implementing styled components, reusable components, and responsiveness from 320px and up.",
+      "netlify": "https://dailyspell.netlify.app/",
+      "github": "https://github.com/EmelieNyberg/project-design-handoff-vite"
+    },
+    {
       "name": "Stellar Sound",
       "image": "/stellar.png",
-      "description": "A business site concept for a fictitious music streaming service, built with HTML and CSS, featuring a hero section and sign-up form. The site uses Grid, Flexbox, and Media Queries for a mobile-first, responsive design.",
+      "description": "A business site concept for a fictitious music streaming service, built with HTML and CSS, featuring a hero section and sign-up form. The site uses Grid, Flexbox, and Media Queries for a responsive design.",
       "netlify": "https://stellarsound.netlify.app/",
       "github": "https://github.com/EmelieNyberg/project-business-site-ek"
+    },
+    {
+      "name": "Survey",
+      "image": "/survey.png",
+      "description": "A mob-programming project where we built a React survey with controlled forms, state management, and accessibility best practices. The fully responsive survey includes three questions with radio buttons, a dropdown, and a summary page displaying user responses.",
+      "netlify": "https://group-project-survey.netlify.app/",
+      "github": "https://github.com/EmelieNyberg/project-survey-vite"
     }
   ]
 }
