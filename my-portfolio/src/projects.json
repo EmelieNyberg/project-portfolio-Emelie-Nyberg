@@ -50,6 +50,13 @@
       "github": "https://github.com/EmelieNyberg/project-chatbot-ek"
     },
     {
+      "name": "Melodify",
+      "image": "/melodify.png",
+      "description": "This project is a React app that dynamically displays albums using components, props, and .map(), featuring hover effects, a responsive design, and external links to albums and artists. The focus was on seamless UI interactions, accessibility, and precise design implementation.",
+      "netlify": "https://project-music-releases-melodify.netlify.app/",
+      "github": "https://github.com/EmelieNyberg/project-music-releases-vite-ek"
+    },
+    {
       "name": "Daily Spells",
       "image": "/spell.png",
       "description": "A collaborative mob-programming project where we transformed a Figma design for iPhone XR into a fully functional React application. The goal was to precisely follow the UX designer’s vision, implementing styled components, reusable components, and responsiveness from 320px and up.",
@@ -76,6 +83,13 @@
       "description": "A mob-programming project where we built a React survey with controlled forms, state management, and accessibility best practices. The fully responsive survey includes three questions with radio buttons, a dropdown, and a summary page displaying user responses.",
       "netlify": "https://group-project-survey.netlify.app/",
       "github": "https://github.com/EmelieNyberg/project-survey-vite"
+    },
+    {
+      "name": "News site",
+      "image": "/babies.png",
+      "description": "News Site Project: A responsive news website about parenting, built with HTML, CSS, Grid, and Flexbox, ensuring adaptability across devices.",
+      "netlify": "https://babies-focusedonparents.netlify.app/code/",
+      "github": "https://github.com/EmelieNyberg/project-news-site-ek"
     }
   ]
 }
