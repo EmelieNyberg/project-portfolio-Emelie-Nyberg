@@ -64,6 +64,13 @@
       "github": "https://github.com/EmelieNyberg/project-design-handoff-vite"
     },
     {
+      "name": "Nintendo Games API",
+      "image": "/nintendo-api.png",
+      "description": "A RESTful API built with Express and Mongoose, providing access to a Nintendo Switch games dataset stored in MongoDB. The project focuses on data modeling, seeding a database, and creating endpoints with filtering and sorting capabilities.",
+      "netlify": "https://project-mongo-api-ek.onrender.com",
+      "github": "https://github.com/EmelieNyberg/project-mongo-api-ek"
+    },
+    {
       "name": "Read Cloud",
       "image": "/library.png",
       "description": "Read Cloud is a JavaScript-based interactive webpage that dynamically displays data from a provided array. The page includes filtering, sorting, and a random selection feature, allowing users to refine books based on properties like genre, rating, or most recent.",
@@ -90,6 +97,13 @@
       "description": "News Site Project: A responsive news website about parenting, built with HTML, CSS, Grid, and Flexbox, ensuring adaptability across devices.",
       "netlify": "https://babies-focusedonparents.netlify.app/code/",
       "github": "https://github.com/EmelieNyberg/project-news-site-ek"
+    },
+    {
+      "name": "Javascript Pizzeria",
+      "image": "/pizza.png",
+      "description": "A simple JavaScript-based interactive ordering system where users navigate through a series of prompts and alerts to customize their meal. The project focuses on user input handling, conditional statements, and dynamic messaging.",
+      "netlify": "https://project-pizza-ek.netlify.app/",
+      "github": "https://github.com/EmelieNyberg/project-pizza-ek"
     }
   ]
 }
