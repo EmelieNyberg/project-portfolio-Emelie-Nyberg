@@ -1,6 +1,13 @@
 {
   "projects": [
     {
+      "name": "Livia AI Chatbot",
+      "image": "/ai-chatbot.png",
+      "description": "A custom AI chatbot built with React, Node.js, and OpenAI’s API, helping pregnant users get reliable food guidance. Features include dark/light mode toggle, avatar selection, and smart local storage for a personalized, seamless chat experience.",
+      "netlify": "https://livia-chatbot-project.netlify.app/",
+      "github": "https://github.com/EmelieNyberg/project-ai-chatbot"
+    },
+    {
       "name": "JollyKid",
       "image": "/jollykid.png",
       "description": "A full-stack e-commerce platform for children's clothing, built with React, Node.js, and MongoDB. It features secure authentication, Stripe payments, and responsive design — offering a smooth shopping experience with intuitive filtering, cart management, and a clean, modern UI.",
